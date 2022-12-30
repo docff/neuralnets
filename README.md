@@ -1,4 +1,4 @@
-# neuralnets
+# Neural Nets Course NTUA 2017-2018
 
 Ξυπόλιτος Γεώργιος 03113629
 
